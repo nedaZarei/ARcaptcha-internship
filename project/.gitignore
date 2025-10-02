@@ -1,0 +1,11 @@
+config/config.yaml
+
+.idea/
+.vscode/
+*.swp
+*.swo
+
+bin/
+dist/
+
+*.log
